@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 align="center">Hi 👋, I'm Samiul Islam</h1>
-<h3 align="center">A Passionate Web Developer From India</h3>
+<h3 align="center">A Passionate Front-End Developer From India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
