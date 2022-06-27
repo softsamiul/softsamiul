@@ -1,5 +1,5 @@
 <!---
-######  👋 Hello, I am Samiul Islam. Software Engineer at Morder Itelligence. I completed my diploma engineering degree in Computer Science and Technology and Pursuing Bachelors degree in Computer Science and Engineering. I am a highly motivated individual with a passion for constantly developing skills and growing professionally. I am a fast learner, always on the lookout for opportunities.
+######  👋 Hello, I am Samiul Islam. Software Engineer. I completed my diploma engineering degree in Computer Science and Technology and Pursuing Bachelors degree in Computer Science and Engineering. I am a highly motivated individual with a passion for constantly developing skills and growing professionally. I am a fast learner, always on the lookout for opportunities.
 ###### 👀 I’m interested in Web Application Development.
 ###### 🌱 Developing skills and growing professionally.
 
