@@ -15,8 +15,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h1 align="center">Hi 👋, I'm Samiul Islam</h1> a
-###### Software Engineer. I completed my diploma engineering degree in Computer Science and Technology and Pursuing Bachelor degree in Computer Science and Engineering. I am a highly motivated individual with a passion for constantly developing skills and growing professionally. I am a fast learner, always on the lookout for opportunities.
+<h1 align="center">Hi 👋, I'm Samiul Islam</h1>
+###### A Frontend Software Engineer. I completed my diploma engineering degree in Computer Science and Technology and Pursuing Bachelor degree in Computer Science and Engineering. I am a highly motivated individual with a passion for constantly developing skills and growing professionally. I am a fast learner, always on the lookout for opportunities.
 
 
 ###### 👀 I’m interested in Web Application Development.
