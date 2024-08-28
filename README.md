@@ -25,7 +25,15 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 align="center">Hi 👋, I'm Samiul Islam</h1>
-###### A Frontend Software Engineer. I completed my diploma engineering degree in Computer Science and Technology and Pursuing Bachelor degree in Computer Science and Engineering. I am a highly motivated individual with a passion for constantly developing skills and growing professionally. I am a fast learner, always on the lookout for opportunities.
+###### 👋 I'm Samiul Islam, a Software Engineer with 2.8 years of experience, specializing in Frontend Development. In my role as a Frontend Developer, I've had the privilege of serving as a key contributor to [https://www.mordorintelligence.com], where I help create captivating web experiences using a toolkit that includes JavaScript, ES6, React, Redux, Next.js, ExpressJS, EJS and more.
+
+My work reaches and enriches the experiences of a substantial user base, with [https://www.mordorintelligence.com/] welcoming 40-45k users daily.
+
+I hold a bachelor's degree in Computer Science & Engineering from Camellia Institute Of Technology (CIT), Kolkata, and also completed a diploma in Computer Science & Technology from Dumkal Polytechnic.
+
+Passionate about coding, I'm always eager to embrace new challenges and expand my skill set. Let's connect and explore how we can collaborate to bring exciting projects to life. Discover more about me at 👇 [https://samiulcodecraft.vercel.app].
+
+Skills: JavaScript, ES6, React, Redux, Next JS, jQuery, Express JS, EJS, MongoDB.
 
 
 ###### 👀 I’m interested in Web Application Development.
