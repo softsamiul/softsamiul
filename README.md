@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samiul Islam</h1>
-<h3 align="center">Frontend-Focused Full Stack Engineer | React • Next.js • Node.js | Performance & SEO Optimization</h3>
+<h3 align="center">Full Stack Engineer | React • Next.js • Node.js | Performance & SEO Optimization</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/softsamiul">
